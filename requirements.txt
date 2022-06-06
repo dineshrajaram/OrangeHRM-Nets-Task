@@ -1,0 +1,10 @@
+allure-pytest==2.9.45
+allure-robotframework==2.9.45
+ddt==1.5.0
+pytest==7.1.2
+pytest-html==3.1.1
+robotframework==5.0.1
+robotframework-seleniumlibrary==6.0.0
+selenium==4.2.0
+softest==1.2.0.0
+webdriver-manager==3.7.0

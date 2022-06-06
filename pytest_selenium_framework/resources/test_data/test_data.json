@@ -1,0 +1,10 @@
+{
+    "Scenario 1" : {
+        "username": "testuser1",
+        "password": "dummy1"
+    },
+    "Scenario 2" : {
+        "username": "testuser2",
+        "password": "dummypass2"
+    }
+}

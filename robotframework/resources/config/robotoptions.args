@@ -1,0 +1,2 @@
+--outputdir robotframework/results/
+--listener allure_robotframework;./robotframework/results/allure/
